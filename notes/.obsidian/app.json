@@ -1,0 +1,19 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "daily",
+  "attachmentFolderPath": "attachments",
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "ru",
+    "en"
+  ],
+  "defaultViewMode": "source",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": false,
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "tabSize": 2
+}
